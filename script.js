@@ -25,7 +25,7 @@
 			{ category: "Boot complete", title: "Boot Complete", price: 1400, description: "Complete boot for this model.", image: "img/boot complete.png" },
 			{ category: "Complete shaft", title: "Complete Shaft", price: 800, description: "Complete shaft for this model.", image: "img/Mazda Demio Complete Shaft.png" },
 			{ category: "Brake disc", title: "Brake Disc", price: 200, description: "Brake disc for this model.", image: "img/brake disc.png" },
-			{ category: "Sub axle", title: "Sub Axle", price: 250, description: "Sub axle for this model.", image: "img/sub axle.png" },
+			{ category: "Sub axle", title: "Sub Axle", price: 400, description: "Sub axle for this model.", image: "img/sub axle.png" },
 			{ category: "Window glass", title: "Window Glass", price: 350, description: "Price is per window glass.", image: "img/window class.jpeg" },
 			{ category: "Window motor", title: "Window Motor", price: 250, description: "Window motor for this model.", image: "img/window motor.png" },
 			{ category: "Main window switch", title: "Window Switch (Main)", price: 500, description: "Main window switch for this model.", image: "img/window switch (main).png" },
